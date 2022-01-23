@@ -1,0 +1,35 @@
+body {
+    background: url(ch.gif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color:red;
+   }
+   #f:hover{
+    background-color: red;
+    color: yellow;
+   }
+   #f{
+    background-color: black;
+    color: blue;
+    margin-left: 130px;
+   }
+   #r:hover{
+    background-color: yellow;
+    color: red;
+   }
+   #fg{
+    color: red;
+    background-color: blue;
+    margin-left: 130px;
+   }
+   #fg:hover{
+    background-color: red;
+    color: yellow;
+   }
+#h{
+background-color: black; color: blue;
+margin-left: 130;
+}
+#r{
+margin-left: 150;
+}

@@ -1,0 +1,44 @@
+#b{
+font-family: 'The Nautigal', cursive;
+font-family: 'Waterfall', cursive;
+font-size:20px;
+background-color: black;
+color:red;
+}
+#b:hover{
+font-family: 'The Nautigal', cursive;
+font-family: 'Waterfall', cursive;
+font-size:20px;
+background-color: yellow;
+color: red;
+}
+#fi{
+    width: 300px; 
+    height: 300px;
+}
+#ui{
+    width: 300px; 
+    height: 300px;
+}
+.test_image_and_result{
+color: red;
+font-weight: bolder;
+}
+.test_image_and_resulut img{
+    width: 300px;
+    height: 300px;
+}
+.test_image_and_resulut{
+    color: red;
+    font-weight: bolder;  
+}
+.test_image_and_result:hover{
+    color: red;
+font-weight: bolder;
+background-color: yellow;
+}
+.test_image_and_resulut:hover{
+    color: red;
+font-weight: bolder;
+background-color: yellow;
+}
